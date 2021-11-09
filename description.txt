@@ -11,4 +11,5 @@ Components
 
 1. landing page
 2. blog
-3. platform
+3. trial content (free)
+4. platform
