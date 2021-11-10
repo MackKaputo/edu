@@ -1,13 +1,23 @@
 # Main project description
 
-Objective
----------
+Vision
+-------
 
-Make quality education accessible to as many people as possible to create equal
-opportunities in terms of knowledge and know-how
+Become a reference of educational knowledge adapted to countries in development. 
 
-Components
------------
+Objectives
+----------
+
+* Make quality education accessible to as many people as possible to create equal
+  opportunities in terms of knowledge and know-how
+* Allow educators to have a reliable source of information to update their knowledge
+* Facilitate knowledge sharing from the best to everyone
+* become a reference of educational content, targetted for practical knowledge
+
+Web Application Components
+---------------------------
+
+Front-end application:
 
 1. landing page
 2. blog
