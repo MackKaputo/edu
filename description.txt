@@ -20,6 +20,18 @@ Web Application Components
 Front-end application:
 
 1. landing page
+
+  - tell user about the blog and get them to subscribe ( create an account )
+  - Link to trial content
+  - Reference sources ( where else to get the content )
+  - Login option 
+  
 2. blog
+
+  - content categories?
+  - stories
+  - practical examples from courses, examples to lead users to learn more from the courses
+  - Disciplines: interviews with professionals ( doctors, engineers,... ) with aim to expose the reality
+  
 3. trial content (free)
 4. platform
