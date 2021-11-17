@@ -35,3 +35,9 @@ Front-end application:
   
 3. trial content (free)
 4. platform
+
+5. Others
+----------
+
+Advertise bootcamp like session for grade 12 students before final exams: bring in specialist/well-known lecturers
+to give the course. Focus on exams solutions, tricks for fast solutions.
