@@ -28,7 +28,7 @@ Front-end application:
   
 2. blog
 
-  - content categories?
+  - content categories? Subjects? professions?
   - stories  ----> Part of audience building strategy
   - practical examples from courses, examples to lead users to learn more from the courses
   - Disciplines: interviews with professionals ( doctors, engineers,... ) with aim to expose the reality
