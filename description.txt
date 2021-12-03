@@ -37,6 +37,8 @@ Front-end application:
     
     Subscription plans??
     
+    Mentoring programm: text-based?
+    
 4. platform
 
 5. Others
