@@ -34,6 +34,9 @@ Front-end application:
   - Disciplines: interviews with professionals ( doctors, engineers,... ) with aim to expose the reality
   
 3. trial content (free)
+    
+    Subscription plans??
+    
 4. platform
 
 5. Others
