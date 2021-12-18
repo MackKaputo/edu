@@ -1,6 +1,6 @@
 # Main project description
 
-ECOSYS 2
+ECOSYS 2, where 1 is media platform
 =========================================
 Vision
 -------
