@@ -47,4 +47,6 @@ Front-end application:
 ----------
 
 Advertise bootcamp like session for grade 12 students before final exams: bring in specialist/well-known lecturers
-to give the course. Focus on exams solutions, tricks for fast solutions.
+to give the course. Focus on exams solutions, tricks for fast solutions. 
+Setup: 
+  - short lectures split with different focus
