@@ -51,3 +51,6 @@ to give the course. Focus on exams solutions, tricks for fast solutions.
 Setup: 
   - short lectures on specific topic per instructor
 NEW OPTION VIEW: SELF PRODUCTION
+
+TECK-STACK:
+ - Database: Fauna
