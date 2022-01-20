@@ -1,20 +1,15 @@
 import React from 'react'
+import { Link } from "react-router-dom"
 
 function GlobalNav() {
   return (
     <nav>
-        <div>MyLogoMyLogo</div>
+        <div><Link to="/">MyLogoMyLogo</Link></div>
         <div>
             <ul>
                 <li>About</li>
                 <li>
-                    Courses
-                    <ul>
-                        <li>Engineering Mathematics</li>
-                        <li>Engineering Thermodynamics</li>
-                        <li>Engineering Mechanics</li>
-                        <li>Strength of Materials</li>
-                    </ul>
+                    <Link to="/courses">Courses</Link>
                 </li>
                 <li>My Courses</li>
                 <li>Blog</li>
