@@ -1,7 +1,10 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { Link } from "react-router-dom"
+import { UserContext } from '../../context'
 
 function GlobalNav() {
+  const [user, setUser] = useContext(UserContext)
+
   return (
     <nav>
         <div><Link to="/">MyLogoMyLogo</Link></div>
@@ -11,9 +14,12 @@ function GlobalNav() {
                 <li>
                     <Link to="/courses">Courses</Link>
                 </li>
-                <li>My Courses</li>
+                <li><Link to="/mycourses" >My Courses</Link></li>
                 <li>Blog</li>
             </ul>
+        </div>
+        <div>
+          {user.name}
         </div>
     </nav>
   )
