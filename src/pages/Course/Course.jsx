@@ -16,7 +16,14 @@ function Course() {
       Welcome to couse with ID: {course_id} and { subscriptions[0].id}
       <div>
         {subscriptions.map((course) => course.id === course_id? 
-          <h1>Hello my subscriber </h1> : <h1>No access, sorry. buy the course</h1>)}
+          <h1>Hello my subscriber </h1> 
+              
+            : 
+          <div>
+            <h1>No access, sorry. buy the course</h1>
+            <button>Buy {course_id}</button>
+          </div>
+          )}
       </div>
     </div>
   )
