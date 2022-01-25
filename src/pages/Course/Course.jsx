@@ -17,7 +17,6 @@ function Course() {
       <div>
         {subscriptions.map((course) => course.id === course_id? 
           <h1>Hello my subscriber </h1> 
-              
             : 
           <div>
             <h1>No access, sorry. buy the course</h1>
