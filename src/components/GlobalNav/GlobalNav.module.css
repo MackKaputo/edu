@@ -1,0 +1,36 @@
+.global_nav {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: rgb(13, 14, 17);
+    color: white;
+    padding: 0.5rem;
+}
+.global_nav  a {
+    text-decoration: none;
+    color: white;
+    padding: 0 2rem;
+}
+
+.global_nav  a:hover {
+    font-size: larger;
+    transition: 0.5s;
+}
+
+.global_nav > ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.global_nav > ul > li {
+    list-style-type: none;
+    line-height: 0;
+    
+    
+}
+
+
+
+
+
